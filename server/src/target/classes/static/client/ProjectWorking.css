@@ -1,0 +1,116 @@
+.project-data-page{
+    padding: 3vh 2vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+.project-data-container{
+    width: 90%;
+    text-align: left;
+    margin-left: 5%;
+    margin-top: 4vh;
+}
+
+
+.project-data{
+
+
+}
+
+.project-data h3{
+    text-align: justify;
+    font-size: 1.8rem;
+    color: rgba(32, 102, 137, 0.826);
+}
+
+.project-data p{
+    font-size: 1rem;
+    text-align: justify;
+}
+
+.project-data span {
+
+}
+
+.project-data span h5{
+
+
+}
+
+.project-data span .required-skills{
+    display: flex;
+    gap: 10px;
+}
+
+.project-data span .required-skills p{
+    color: #ee450e;
+    border: 1px solid #ee450e;
+    padding: 6px 12px;
+    border-radius: 1rem;
+    font-size: 0.7rem;
+}
+
+.project-data span h6{
+
+}
+
+.project-submissions-container{
+    width: 60%;
+    margin-top: 5vh;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    padding: 3vh 2vw;
+    border-radius: 0.7rem;
+    margin-bottom: 5vh;
+}
+
+.project-submissions-container h4{
+    margin-bottom: 3vh;
+    color: #226691db;
+}
+
+.project-submissions{
+
+
+}
+
+.project-submission{
+
+
+}
+
+.project-submission h6{
+
+
+}
+.project-submission h5{
+    margin: 0;
+    font-size: 1rem;
+}
+.project-submission span{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 2vh;
+    align-items: center;
+}
+.project-submission span h5{
+    margin: 0;
+    font-size: 1rem;
+}
+.project-submission span a{
+
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+.project-submission p{
+
+    font-size: 0.8rem;
+}
+.project-submission .submission-btns{
+    display: flex;
+    gap: 15px;
+}
+
+.project-submission .submission-btns button{
+
+    width: 20%;
+}
